@@ -17,7 +17,7 @@ This dashboard uses intuitive and visually appealing components to uncover mobil
 - 🔁 YoY Comparison – Same Period Last Year (SPLY) metric
 - 🗓️ Slicers – Filter by Date, Model, and Payment Type for custom views
 
-## 📌 Repository Highlights
+## 🖼️ Dashboard Images
 ![Screenshot 2025-04-16 133220](https://github.com/user-attachments/assets/0afbec86-ca15-4394-9fb6-8f654c26e2f0)
 ![Screenshot 2025-04-16 133254](https://github.com/user-attachments/assets/9605cb0e-7c2a-4c51-9b05-e8a17e41dac0)
 ![Screenshot 2025-04-16 135221](https://github.com/user-attachments/assets/e7e701a5-68e2-4805-b765-319577d00049)
